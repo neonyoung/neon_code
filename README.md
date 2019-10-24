@@ -1,2 +1,2 @@
 # neon_code
-record my code
+51/spi_pin_simulate
